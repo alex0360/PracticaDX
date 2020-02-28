@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/27 12:59:40.000.480,D:\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Documents\Embarcadero\Studio\Projects\PracticaDX\PracticaDX.dproj</Transaction>
+    <Transaction>2020/02/27 13:07:59.000.829,=D:\Documents\Embarcadero\Studio\Projects\PracticaDX\Unit1.pas</Transaction>
+    <Transaction>2020/02/27 13:08:20.000.217,D:\Documents\Embarcadero\Studio\Projects\PracticaDX\Unit1.pas=D:\Documents\Embarcadero\Studio\Projects\PracticaDX\UPOO.pas</Transaction>
+    <Transaction>2020/02/27 13:25:52.000.432,=D:\Documents\Embarcadero\Studio\Projects\PracticaDX\Unit1.pas</Transaction>
+    <Transaction>2020/02/27 13:31:18.000.822,D:\Documents\Embarcadero\Studio\Projects\PracticaDX\Unit1.pas=D:\Documents\Embarcadero\Studio\Projects\PracticaDX\UTEstructuras_condicionales_simples_compuestas.pas</Transaction>
+    <Transaction>2020/02/27 19:19:44.301,=D:\Documents\Embarcadero\Studio\Projects\PracticaDX\Unit1.pas</Transaction>
+    <Transaction>2020/02/27 19:28:02.284,D:\Documents\Embarcadero\Studio\Projects\PracticaDX\UTEstructuras_condicionales_anidadas.pas=D:\Documents\Embarcadero\Studio\Projects\PracticaDX\Unit1.pas</Transaction>
+    <Transaction>2020/02/27 19:37:36.139,=D:\Documents\Embarcadero\Studio\Projects\PracticaDX\Unit1.pas</Transaction>
+    <Transaction>2020/02/27 19:40:06.700,D:\Documents\Embarcadero\Studio\Projects\PracticaDX\UTCondiciones_compuestas_operadores_lógicos.pas=D:\Documents\Embarcadero\Studio\Projects\PracticaDX\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
